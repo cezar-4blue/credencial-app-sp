@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { CredentialForm, CredentialFormData } from "./components/CredentialForm";
 import { CredentialCard } from "./components/CredentialCard";
-import { Toaster } from "@/components/ui/sonner";
+import { Toaster } from 'sonner';
 import LogoWorkshop from "./assets/logo-workshop.svg";
 
 export default function App() {
