@@ -1,12 +1,12 @@
 # Workshop Credencial Digital — 4blue
 
-Aplicativo web para geração de credenciais digitais personalizadas para o Workshop Máquina de Lucros.
+Aplicativo web para geração de credenciais digitais personalizadas para o Workshop Máquina de Lucros São Paulo.
 
 ## 🚀 Tecnologias Utilizadas
 
 - **React 18** com **TypeScript**
-- **Vite** (Build tool)
-- **Tailwind CSS** (Estilização com tokens HSL e efeitos Neon)
+- **Vite 6** (Build tool)
+- **Tailwind CSS v4** (Estilização com tokens HSL e efeitos Neon)
 - **Shadcn/UI** (Componentes de interface)
 - **React Hook Form + Zod** (Validação de formulários)
 - **QRCode.react** (Geração dinâmica de QR Code)
